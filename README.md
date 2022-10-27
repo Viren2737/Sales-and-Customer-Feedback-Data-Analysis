@@ -38,6 +38,8 @@ h. Quantity - Quantity of the product/menu ID in the order
 
 i. Total Value - Total value of the order placed
 
-Agenda 1. With the help of the data analysis using SQL, TABLEAU and EXCEL, find some data-driven actionable insights, areas of improvement and areas of opportunity for these restaurants. Some of the insights include - Average ratings, Top comments, Top ordered products for each restaurant, Percentile distribution by each comment type, Total revenue by product, Total revenue by the restaurant, Item price frequency and Peak hours prediction.
+Agenda 1 : With the help of the data analysis using SQL, TABLEAU and EXCEL, find some data-driven actionable insights, areas of improvement and areas of opportunity for these restaurants. Some of the insights include - Average ratings, Top comments, Top ordered products for each restaurant, Percentile distribution by each comment type, Total revenue by product, Total revenue by the restaurant, Item price frequency and Peak hours prediction.
 
-Agenda 2. On observing the data, we found out that most of the users who are happy with the food or service don’t end up giving ratings, leaving out the opportunity to increase restaurant ratings. Suggested features or ways to increase the number of feedback captured.
+Agenda 2 : On observing the data, we found out that most of the users who are happy with the food or service don’t end up giving ratings, leaving out the opportunity to increase restaurant ratings. Suggested features or ways to increase the number of feedback captured.
+
+Round 2 : A leading F&B Institutional Food Tech company is managing 150+ cafeterias PAN India. The company has decided to build and launch coffee vending machines at these 150+ cafeterias and pitch them to potential clients. The coffee vending machines will be introduced as a new source of revenue for the company. As a PM at the company, design the coffee vending machine.
